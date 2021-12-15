@@ -43,7 +43,7 @@ Eu separei por stack e por ordem de descobrimento, da mais antiga até a mais re
 ![Krita](https://img.shields.io/badge/Krita-203759?style=plastic&logo=krita&logoColor=EEF37B)  
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jhonatanjunio&theme=dark&ring=red&fire=red&sideLabels=red&currStreakLabel=red&date_format=j/n/Y)](https://git.io/streak-stats)
+<!---![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jhonatanjunio&theme=dark&ring=red&fire=red&sideLabels=red&currStreakLabel=red&date_format=j/n/Y)](https://git.io/streak-stats) --->
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jhonatanjunio.visitor-badge&left_color=black&right_color=red&left_text=Hey%20you,%20visitante!%20) 
 [![Twitch Status](https://img.shields.io/twitch/status/oNinjaDev?style=plastic&logo=twitch&logoColor=white&labelColor=red&color=black&style=social)](https://twitch.tv/oninjadev)
