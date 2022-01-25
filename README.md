@@ -4,7 +4,7 @@
 echo "Hey! My name is Jhonatan but you can call me Jhon 🧑🏽‍💻"
 ```
 
-<img align="right" height="230" src="https://media.giphy.com/media/4AepZzS9MymRxGa0BR/giphy.gif"/>
+<img align="right" height="190" src="https://media.giphy.com/media/OfLHMv3ukf5SosGRdu/giphy.gif"/>
 
 ```diff
 @@I'm a software architect working at GreenSignal Softwares@@
