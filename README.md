@@ -3,9 +3,6 @@
 #!/bin/bash
 echo "Hey! My name is Jhonatan but you can call me Jhon 🧑🏽‍💻"
 ```
-
-<img align="right" height="170" src="https://media.giphy.com/media/OfLHMv3ukf5SosGRdu/giphy.gif"/>
-
 ```diff
 @@I'm a software architect working at GreenSignal Softwares@@
 + Living in Minas Gerais, Brazil 🇧🇷.
@@ -18,6 +15,9 @@ echo "Hey! My name is Jhonatan but you can call me Jhon 🧑🏽‍💻"
 "'Somehow I manage.' Now I feel ya, Michael Scott!";
 # ~That's what she said~
 ```
+
+<img align="left" height="170" src="https://media.giphy.com/media/OfLHMv3ukf5SosGRdu/giphy.gif"/>
+
 
 <I GOT YOU>
 <FEEL FREE>
