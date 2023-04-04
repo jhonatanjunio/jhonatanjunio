@@ -4,7 +4,7 @@
 echo "Hey! My name is Jhonatan but you can call me Jhon 🧑🏽‍💻"
 ```
 ```diff
-@@I'm a software architect working at GreenSignal Softwares@@
+@@I'm a software architect working at GreenSignal Softwares@
 + Living in Minas Gerais, Brazil 🇧🇷.
 - 30 years old
 ! sometimes leader, sometimes listener, always asking "why?"
