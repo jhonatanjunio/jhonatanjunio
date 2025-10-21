@@ -11,7 +11,7 @@ echo "Hey! My name is Jhonatan but you can call me Jhon 🧑🏽‍💻"
 ! 📖 certified non-practicing Scrum Master (jk I do my best)
 ! 💭 I like to inspire others to do their best
 ```
-[![@jhonatanjunio's Holopin board](https://holopin.io/api/user/board?user=jhonatanjunio)](https://holopin.io/@jhonatanjunio)
+[![An image of @jhonatanjunio's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jhonatanjunio)](https://holopin.io/@jhonatanjunio)
 ```php
 "'Somehow I manage.' Now I feel ya, Michael Scott!";
 # ~That's what she said~
